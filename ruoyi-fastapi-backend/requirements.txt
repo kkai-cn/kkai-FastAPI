@@ -23,4 +23,4 @@ sqlglot[rs]==30.23.0
 textual==8.2.8
 tzdata==2026.5
 user-agents==2.2.0
-.
+
